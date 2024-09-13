@@ -13,9 +13,11 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
 
-  libphonenumber_platform_interface: ^0.4.2
+  libphonenumber_platform_interface:
+    path: ../libphonenumber_platform_interface
 
-  libphonenumber_web: ^0.3.2
+  libphonenumber_web:
+    path: ../libphonenumber_web
 
 dev_dependencies:
   flutter_lints: ^3.0.1

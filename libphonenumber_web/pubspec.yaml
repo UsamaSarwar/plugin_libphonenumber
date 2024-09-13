@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
 
   js: ^0.6.7
-  libphonenumber_platform_interface: ^0.4.2
+
+  libphonenumber_platform_interface:
+    path: ../libphonenumber_platform_interface
 
 dev_dependencies:
   flutter_lints: ^3.0.1
