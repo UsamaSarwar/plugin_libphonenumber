@@ -15,7 +15,7 @@ A new flutter plugin project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'PhoneNumberKit', '3.3.2'
+  s.dependency 'PhoneNumberKit', '3.8.0'
   
   s.platform = :ios, '12.0'
 
