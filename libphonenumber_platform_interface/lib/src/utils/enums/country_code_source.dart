@@ -11,6 +11,8 @@
 ///  FROM_NUMBER_WITHOUT_PLUS_SIGN: 10,
 ///  FROM_DEFAULT_COUNTRY: 20
 /// };
+library;
+
 
 enum CountryCodeSource {
   UNSPECIFIED(value: 0),

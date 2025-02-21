@@ -35,6 +35,8 @@
 ///   // patterns for a specific region.
 ///   UNKNOWN: -1
 /// };
+library;
+
 
 enum PhoneNumberType {
   FIXED_LINE(value: 0), // : 0,
