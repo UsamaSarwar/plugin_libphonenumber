@@ -2,6 +2,7 @@ name: libphonenumber_platform_interface
 description: Libphonenumber Platform Interface with MethodChannels and Utils classes.
 version: 0.4.2
 homepage: https://github.com/natintosh/plugin_libphonenumber
+publish_to: none
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
