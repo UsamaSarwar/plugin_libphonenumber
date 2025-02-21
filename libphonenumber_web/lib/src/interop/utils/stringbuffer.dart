@@ -3,7 +3,7 @@
 @JS()
 library stringbuffer;
 
-import 'package:js/js.dart';
+import 'dart:js_interop/js_interop.dart';
 
 @JS('StringBuffer')
 class StringBufferJsImpl {
